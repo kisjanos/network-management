@@ -1,0 +1,18 @@
+{
+    "mysql_username" : "mysql_username",
+    "mysql_password" : "mysql_password",
+    "mysql_server"   : "127.0.0.1",
+    "mysql_port"     : 1883,
+    "mysql_database" : "online_db",
+    "ssh_tunnel"     : 1,
+    "ssh_host"       : "ssh_host_name",
+    "ssh_user"       : "ssh_tunnel_user",
+    "ssh_passw"      : "ssh_tunnel_password",
+    "local_port"     : 8010,
+    "server_address" : "0.0.0.0",
+    "server_port"    : 8001,
+    "server_auth_key": "generate_your_auth_key_here",
+    "server_app_names": ["server_management"],
+    "remote_bind_adddress"  : "127.0.0.1",
+    "remote_bind_port"      : 3306
+}
